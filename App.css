@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  background-color: blueviolet;
+}
+
+.Header {
+  background-color: black;
+  color: white;
+  margin-top: -23px;
+}
+
+.Main {
+  margin: 5px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+ .Movie {
+  background-color: gray;
+  color: black;
+  border: 2px solid black;
+  padding: 3px;
+  font-weight: bold;
+  width: 250px;
+  margin-top: 25px;
+} 
+
+.Movie img {
+height: 200px;
+width: 200px;
+}
